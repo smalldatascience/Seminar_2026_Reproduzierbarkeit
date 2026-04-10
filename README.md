@@ -1,2 +1,3 @@
 # Seminar_2026_Reproduzierbarkeit
-Test
+Seminarmaterial
+
